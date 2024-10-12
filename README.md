@@ -15,7 +15,7 @@
 - **:book: Git**
 
 ### Connect with me :mailbox::
-<p> <a href="mailto:vadim_zubarev_2003@mail.ru@email.com/"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png" height=25></a> <a href="https://t.me/vadimzvadim"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height=25></a>
+<p> <a href="mailto:vadim_zubarev_2003@mail.ru/"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png" height=25></a> <a href="https://t.me/vadimzvadim"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" height=25></a>
 
 <!--
 **VadimZubarev/VadimZubarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
