@@ -1,7 +1,7 @@
 ## Привет! :earth_africa: 
 
 ## Меня зовут Вадим :v:
-### Я студент МАИ - "Информационные системы и технологии" - 4 курс [:bar_chart:](https://lms.mai.ru/pluginfile.php/1/theme_moove/logo/1716472176/logo-mai-2016-feb-100x100.png)
+### Я студент МАИ - "Информационные системы и технологии" - 4 курс <p> <a href="mailto:email@email.com/"><img src="[https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png](https://lms.mai.ru/pluginfile.php/1/theme_moove/logo/1716472176/logo-mai-2016-feb-100x100.png)" height=15></a>
 
 - :globe_with_meridians: Полгода работал тестировщиком модулей на C/C++ в компании по разработке бортовых навигационных систем.
 - :rocket: Прошел 3х месячную стажировку в области сетей LTE. Изучал архитектуру сетей lte, основные процессы и протоколы. Работал с файлами. Применял C/C++, Linux, Git
